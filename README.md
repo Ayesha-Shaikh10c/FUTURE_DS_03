@@ -98,11 +98,6 @@ Key questions answered:
 
 ---
 
-## Power BI Dashboard
-![Power BI Dashboard](powerbi_dashboard.png)
-
----
-
 ## 🚀 How to Run
 
 ```bash
