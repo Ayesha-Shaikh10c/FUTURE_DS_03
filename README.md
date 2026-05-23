@@ -103,11 +103,6 @@ Key questions answered:
 
 ---
 
-## Tableau Dashboard
-![Tableau Dashboard](tableau_dashboard.png)
-
----
-
 ## 🚀 How to Run
 
 ```bash
