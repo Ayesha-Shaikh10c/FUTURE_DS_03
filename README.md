@@ -79,6 +79,35 @@ Key questions answered:
 
 ---
 
+---
+
+# Dashboard Preview
+
+## Marketing Funnel Visualization
+![Marketing Funnel](chart_funnel.png)
+
+---
+
+## Conversion by Contact Channel
+![Channel Conversion](chart_channel.png)
+
+---
+
+## Monthly Conversion Trend
+![Monthly Conversion](chart_monthly_conversion.png)
+
+---
+
+## Power BI Dashboard
+![Power BI Dashboard](powerbi_dashboard.png)
+
+---
+
+## Tableau Dashboard
+![Tableau Dashboard](tableau_dashboard.png)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
