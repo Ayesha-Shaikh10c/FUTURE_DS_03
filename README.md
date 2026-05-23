@@ -99,7 +99,7 @@ Key questions answered:
 ---
 
 ## Power BI Dashboard
-![Power BI Dashboard](powerbi_dashboard.png)
+![Power BI Dashboard](<img width="981" height="550" alt="powerbi_dashboard" src="https://github.com/user-attachments/assets/8122c789-5cf6-4fd4-8d92-8473669aedc7" />)
 
 ---
 
